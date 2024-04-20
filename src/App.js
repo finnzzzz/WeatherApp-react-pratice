@@ -62,7 +62,6 @@ const fetchCurrentWeather = ({ authorizationKey, locationName }) => {
 };
 
 const fetchWeatherForecast = ({ authorizationKey, cityName }) => {
-  console.log('city', authorizationKey);
   return fetch(
     `https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=${authorizationKey}&locationName=${cityName}`
   )

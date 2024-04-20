@@ -57,7 +57,7 @@ export const availableLocations = [
   },
   {
     cityName: '苗栗縣',
-    locationName: '國一N142K', // 銅鑼鄉
+    locationName: '國一S123K', // 銅鑼鄉
     sunriseCityName: '苗栗縣',
   },
   {
@@ -92,7 +92,7 @@ export const availableLocations = [
   },
   {
     cityName: '嘉義縣',
-    locationName: '國一N250K', // 大林鎮
+    locationName: '國三N295K', // 大林鎮
     sunriseCityName: '嘉義縣',
   },
   {
@@ -142,7 +142,7 @@ export const availableLocations = [
   },
   {
     cityName: '新北市',
-    locationName: '板橋',
+    locationName: '新北',
     sunriseCityName: '新北市',
   },
 ];
